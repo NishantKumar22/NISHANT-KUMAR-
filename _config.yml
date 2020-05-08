@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 
+title: DocumentDb Explorer
+show_downloads: "true"
+google_analytics: <YOUR-GOOGLE-KEY>
